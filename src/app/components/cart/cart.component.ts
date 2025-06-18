@@ -77,7 +77,7 @@ declare const bootstrap: any;
           </div>
           <div class="modal-footer justify-content-center">
             <button type="button" class="btn btn-primary" (click)="completeOrder()">
-              Torna alla Home
+              Torna al menù
             </button>
           </div>
         </div>
